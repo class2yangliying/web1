@@ -1,0 +1,7 @@
+.images{border: 1px solid #ccc;float: left;margin:4px;}
+.images img{width:200px;height:auto;opacity: 0.5;
+  display: inline;margin:3px;border:1px solid #bebebe;width: 200px;height:160px;}
+body{text-align:center;}
+.ma{width:1150px;margin:0px auto;}
+a:hover img{opacity: 1;border: 1px solid #333333;}
+
